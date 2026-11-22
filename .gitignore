@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.py[cod]
+.db
+static/uploads/*
+!static/uploads/.gitkeep
+make_weights.py
+fix_app.py
+.env
+.idea/
+.ipnyb_checkpoints/
+new_model_testing.pkl
+*pkl
